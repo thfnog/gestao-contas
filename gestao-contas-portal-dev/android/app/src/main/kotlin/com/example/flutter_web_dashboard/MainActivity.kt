@@ -1,4 +1,4 @@
-package com.example.advoga_dev
+package com.example.flutter_web_dashboard
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
