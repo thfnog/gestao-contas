@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="becd3396-20d4-41aa-b895-09dd04047473" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.flutter-plugins" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.flutter-plugins-dependencies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/flutter_web_dashboard.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/libraries/Flutter_for_Android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/runConfigurations/main_dart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/kotlin/com/example/flutter_web_dashboard/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/flutter_web_dashboard_android.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/foto_perfil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/profile-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/flutter_web_dashboard.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/commons/theme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/comment_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/conta.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/conta.g.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/converters/CustomDateTimeConverter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/empresa.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/empresa.g.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/formmatters/currency_input_formatter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/menu.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/project_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/pages/contas_pagar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/pages/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/pages/main_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/pages/month_picker.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/pages/nova_conta.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/card_tile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/chart_card_tile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/comment_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/contas_data_table.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/menu_item_tile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/profile_Widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/project_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/quick_contact.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/responsive_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/sidebar_menu..dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/vawe_clipper.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/web/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XgKAFK6VT9JBRN7daxOL5TT57T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thfno\eclipse-workspace\flutter_web_dashboard\lib\src\pages" />
+      <recent name="C:\Users\thfno\eclipse-workspace\flutter_web_dashboard\lib\src\widget" />
+      <recent name="C:\Users\thfno\eclipse-workspace\flutter_web_dashboard\assets\images" />
+      <recent name="$PROJECT_DIR$/web/assets/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thfno\eclipse-workspace\flutter_web_dashboard\lib\src\widget" />
+      <recent name="C:\Users\thfno\eclipse-workspace\flutter_web_dashboard\assets\images" />
+      <recent name="C:\Users\thfno\eclipse-workspace\flutter_web_dashboard\lib\src\pages" />
+      <recent name="C:\Users\thfno\eclipse-workspace\flutter_web_dashboard\lib\src\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration default="true" type="DartWebdevConfigurationType" factoryName="Dart Web">
+      <option name="htmlFilePath" value="$PROJECT_DIR$/web/index.html" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web/index.html" type="DartWebdevConfigurationType" factoryName="Dart Web" nameIsGenerated="true">
+      <option name="htmlFilePath" value="$PROJECT_DIR$/web/index.html" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Dart Web.web/index.html" />
+      <item itemvalue="Flutter.main.dart" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="becd3396-20d4-41aa-b895-09dd04047473" name="Default Changelist" comment="" />
+      <created>1558073538181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558073538181</updated>
+      <workItem from="1558073539371" duration="5945000" />
+      <workItem from="1558109374227" duration="23462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29407000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="293" y="27" width="1024" height="852" key="#Project_Structure" timestamp="1600725366382">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="293" y="27" width="1024" height="852" key="#Project_Structure/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600725366382" />
+    <state x="258" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600723289986">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="258" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600723289986" />
+    <state x="532" y="255" width="525" height="423" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1600723271330">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="532" y="255" width="525" height="423" key="#com.intellij.ide.util.TreeFileChooserDialog/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600723271330" />
+    <state x="503" y="133" width="583" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1600725435117">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="503" y="133" width="583" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600725435117" />
+    <state x="583" y="224" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600725345796">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="583" y="224" width="424" height="491" key="FileChooserDialogImpl/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600725345796" />
+    <state x="289" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1600725511810">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="289" y="98" width="1022" height="737" key="SettingsEditor/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600725511810" />
+  </component>
+</project>
