@@ -20,6 +20,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Firebase
+sudo npm install -g firebase-tools
+firebase login
+curl -sL https://firebase.tools | bash
+Se tiver problemas: curl -sL firebase.tools | upgrade=true bash
+firebase init
+firebase init emulators
+firebase emulators:start --only firestore
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
