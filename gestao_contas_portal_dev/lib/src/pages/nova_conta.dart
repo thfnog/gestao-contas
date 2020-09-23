@@ -6,7 +6,7 @@ import 'package:flutter_web_dashboard/src/model/converters/CustomDateTimeConvert
 import 'package:flutter_web_dashboard/src/model/empresa.dart';
 import 'package:flutter_web_dashboard/src/model/formmatters/currency_input_formatter.dart';
 import 'package:flutter_web_dashboard/src/pages/month_picker.dart' as picker;
-import 'package:intl/date_symbol_data_local.dart';
+import 'package:intl/intl.dart';
 
 class NovaContaContent extends StatefulWidget {
   NovaContaContent(
@@ -46,7 +46,7 @@ class _NovaContaContentState extends State<NovaContaContent> {
   TextEditingController fornecedorController = new TextEditingController();
 
   DateTime dataEmissao = new DateTime.now();
-  DateTime dataCompetencia = new DateTime.now();
+  DateTime mesCompetencia = new DateTime.now();
   DateTime dataVencimento = new DateTime.now();
   DateTime dataPagamento = new DateTime.now();
 
@@ -55,14 +55,8 @@ class _NovaContaContentState extends State<NovaContaContent> {
   @override
   void initState(){
     super.initState();
-
-    initDateLocale();
-
+    Intl.defaultLocale = 'pt_BR';
     conta = new Conta();
-  }
-
-  Future<void> initDateLocale() async {
-    await initializeDateFormatting("pt_BR", null);
   }
 
   _getContent(){
@@ -145,12 +139,12 @@ class _NovaContaContentState extends State<NovaContaContent> {
                         onTap:()=> showDialog(
                             context: context,
                             builder: (BuildContext context) {
-                              return new picker.MonthPicker();
+                              return new picker.MonthPicker(function: selectMonth);
                             }),
                         child: AbsorbPointer(
-                          child: _customTextFormField("Data da Competência",
+                          child: _customTextFormField("Mês da Competência",
                               dataCompetenciaController,
-                              true, setValueFieldDataCompetencia),
+                              true, setValueFieldMesCompetencia),
                         )
                     )),
                 Container(
@@ -280,6 +274,13 @@ class _NovaContaContentState extends State<NovaContaContent> {
         data = picked;
         controller.value = TextEditingValue(text: formatterDate.format(picked));
       });
+  }
+
+  void selectMonth(DateTime data) async {
+    setState(() {
+      mesCompetencia = data;
+      dataCompetenciaController.value = TextEditingValue(text: formatterMonth.format(data));
+    });
   }
 
   @override
@@ -501,9 +502,8 @@ class _NovaContaContentState extends State<NovaContaContent> {
     var split = value.split("/");
     conta.dataEmissao = new DateTime(int.parse(split[2]), int.parse(split[1]), int.parse(split[0]));
   });
-  setValueFieldDataCompetencia(String value) => setState(() {
-    var split = value.split("/");
-    conta.dataCompetencia = new DateTime(int.parse(split[2]), int.parse(split[1]), int.parse(split[0]));
+  setValueFieldMesCompetencia(String value) => setState(() {
+    conta.mesCompetencia = new DateTime(mesCompetencia.year, mesCompetencia.month, mesCompetencia.day);
   });
   setValueFieldDataVencimento(String value) => setState(() {
     var split = value.split("/");

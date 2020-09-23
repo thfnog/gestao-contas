@@ -3,6 +3,7 @@ import 'package:intl/intl.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 final formatterDate = new DateFormat('dd/MM/yyyy');
+final formatterMonth = new DateFormat('MMMM');
 final formatterTime = new DateFormat('HH:mm:ss');
 final formatterTimeWithoutSec = new DateFormat('HH:mm');
 final formatterDateTime = new DateFormat('dd/MM/yyyy HH:mm:ss');

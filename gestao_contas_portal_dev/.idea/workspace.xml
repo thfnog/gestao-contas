@@ -20,116 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="becd3396-20d4-41aa-b895-09dd04047473" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.flutter-plugins" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.flutter-plugins-dependencies" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/flutter_web_dashboard.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/libraries/Flutter_for_Android.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/runConfigurations/main_dart.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/analysis_options.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/kotlin/com/example/flutter_web_dashboard/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/flutter_web_dashboard_android.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/foto_perfil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/assets/images/profile-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/flutter_web_dashboard.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/commons/theme.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/comment_model.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/conta.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/conta.g.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/converters/CustomDateTimeConverter.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/empresa.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/empresa.g.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/formmatters/currency_input_formatter.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/menu.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/model/project_model.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/pages/contas_pagar.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/pages/home_page.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/pages/main_page.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/pages/month_picker.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/pages/nova_conta.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/card_tile.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/chart_card_tile.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/comment_widget.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/contas_data_table.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/menu_item_tile.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/profile_Widget.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/project_widget.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/quick_contact.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/responsive_widget.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/sidebar_menu..dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/lib/src/widget/vawe_clipper.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/test/widget_test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestao-contas-portal-dev/web/index.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/model/conta.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/model/conta.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/model/conta.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/model/conta.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/model/converters/CustomDateTimeConverter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/model/converters/CustomDateTimeConverter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/contas_pagar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/contas_pagar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/month_picker.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/month_picker.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/nova_conta.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/nova_conta.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,8 +73,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../poc/moneymonitor-flutter" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -284,13 +190,49 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="503" y="133" width="583" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600725435117" />
-    <state x="583" y="224" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600725345796">
+    <state x="583" y="224" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600730377024">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state x="583" y="224" width="424" height="491" key="FileChooserDialogImpl/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600725345796" />
+    <state x="583" y="224" width="424" height="491" key="FileChooserDialogImpl/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600730377024" />
+    <state width="1554" height="216" key="GridCell.Tab.0.bottom" timestamp="1600814309189">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.0.bottom/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600814309189" />
+    <state width="1554" height="216" key="GridCell.Tab.0.center" timestamp="1600814309189">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.0.center/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600814309189" />
+    <state width="1554" height="216" key="GridCell.Tab.0.left" timestamp="1600814309189">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.0.left/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600814309189" />
+    <state width="1554" height="216" key="GridCell.Tab.0.right" timestamp="1600814309189">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.0.right/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600814309189" />
+    <state width="1554" height="268" key="GridCell.Tab.1.bottom" timestamp="1600773822065">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="268" key="GridCell.Tab.1.bottom/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600773822065" />
+    <state width="1554" height="268" key="GridCell.Tab.1.center" timestamp="1600773822064">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="268" key="GridCell.Tab.1.center/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600773822064" />
+    <state width="1554" height="268" key="GridCell.Tab.1.left" timestamp="1600773822064">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="268" key="GridCell.Tab.1.left/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600773822064" />
+    <state width="1554" height="268" key="GridCell.Tab.1.right" timestamp="1600773822065">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="268" key="GridCell.Tab.1.right/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600773822065" />
     <state x="289" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1600725511810">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="289" y="98" width="1022" height="737" key="SettingsEditor/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600725511810" />
+    <state x="491" y="202" width="618" height="522" key="find.popup" timestamp="1600728498817">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="491" y="202" width="618" height="522" key="find.popup/0.27.1600.873/1600.79.1366.768@0.27.1600.873" timestamp="1600728498817" />
   </component>
 </project>

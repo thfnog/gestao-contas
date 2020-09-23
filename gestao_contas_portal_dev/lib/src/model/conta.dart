@@ -23,7 +23,7 @@ class Conta {
   double juros;
   double desconto;
 
-  DateTime dataCompetencia;
+  DateTime mesCompetencia;
   DateTime dataVencimento;
   DateTime dataPagamento;
   DateTime dataEmissao;
@@ -34,7 +34,7 @@ class Conta {
   Conta({this.id, this.parcelas, this.formaPagamento, this.tipoConta, this.status,
       this.descricao, this.observacoes, this.numDocumento,
       this.valor, this.valorParcelado, this.juros, this.desconto,
-      this.dataCompetencia, this.dataVencimento, this.dataPagamento, this.dataEmissao,
+      this.mesCompetencia, this.dataVencimento, this.dataPagamento, this.dataEmissao,
       this.fornecedor, this.contaOrigem});
 
   factory Conta.fromJson(Map<String, dynamic> json) =>

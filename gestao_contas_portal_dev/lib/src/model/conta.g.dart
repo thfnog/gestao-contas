@@ -23,7 +23,7 @@ Conta _$ContaFromJson(Map<String, dynamic> json) {
     juros: json['juros'] as double,
     desconto: json['desconto'] as double,
 
-    dataCompetencia: const CustomDateTimeConverter()
+    mesCompetencia: const CustomDateTimeConverter()
         .fromJsonString(json['dataCompetencia'] as String),
     dataVencimento: const CustomDateTimeConverter()
         .fromJsonString(json['dataVencimento'] as String),
@@ -56,7 +56,7 @@ Map<String, dynamic> _$ContaToJson(Conta instance) => <String, dynamic>{
       'valorParcelado': instance.valorParcelado,
 
       'dataCompetencia':
-        const CustomDateTimeConverter().toJson(instance.dataCompetencia),
+        const CustomDateTimeConverter().toJson(instance.mesCompetencia),
       'dataVencimento':
           const CustomDateTimeConverter().toJson(instance.dataVencimento),
       'dataPagamento':
